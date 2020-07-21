@@ -1,0 +1,7 @@
+Operating Systems Functions
+
+Security-
+The system uses passwords to protect its self from outside intrusion to the system.
+Security is used on many levels, from the intital user logging in with the users passowrd to acces the system, 
+to the system requiring a administration password for making system wide changes.
+
