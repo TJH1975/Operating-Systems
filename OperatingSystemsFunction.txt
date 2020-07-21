@@ -5,3 +5,7 @@ The system uses passwords to protect its self from outside intrusion to the syst
 Security is used on many levels, from the intital user logging in with the users passowrd to acces the system, 
 to the system requiring a administration password for making system wide changes.
 
+Control over system performance-
+This function has complete and monitors the systems overall health to help performance.
+this function also records tome between service requests and systems responses.
+This function is inportant to inprove performance and aid in trouble shooting problems.
