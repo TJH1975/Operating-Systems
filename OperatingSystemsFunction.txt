@@ -9,3 +9,9 @@ Control over system performance-
 This function has complete and monitors the systems overall health to help performance.
 this function also records tome between service requests and systems responses.
 This function is inportant to inprove performance and aid in trouble shooting problems.
+
+Momory Managment-
+Memory managment is fast storage that allows the system to quickly access information needed by the CPU to proper operate the system.
+It keeps track of memory used by a program and its various activities .
+The system is constantly multi programming, so it is in need of a quick process for recieving data and this is how the Memory
+manager works.
